@@ -79,5 +79,5 @@ Preparing to begin development on **Concluding Avatar**, my most ambitious Unity
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:** Coming soon  
-💼 **LinkedIn:** Coming soon  
+🌐 [**Portfolio:**](https://akbarahsan217.wixsite.com/ahsan-akbar) 
+💼 [**LinkedIn:**](https://www.linkedin.com/in/ahsan-akbar-dev/)
